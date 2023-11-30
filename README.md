@@ -1,6 +1,7 @@
-#Project Naor
+# Project Naor
 
-##Back Drop
+## Back Drop
+
 Project Naor is one of my (Christopher Hayden) major programming projects geared towards meeting the needs
 of current day plant/factory operators, managers, technicians and even administrators. The features integrated
 into this application are diverse and aim at testing and challenging my programming skills. This project is obviously
