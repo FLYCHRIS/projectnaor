@@ -20,11 +20,13 @@ SO besides my enlightenment of knowledge I have definetly been enlightened more 
 With all that said my codes might not paint the picture of a perfect developer but more of one who is learning and finding
 his way through this densely canopied forest of software engineering.
 
-![Alt child in forest](../../Pictures/canopy.png)
+![Child in forest](DocPhotos/canopy.png)
 
-# Front End Development (12/06/2023)
+# 1.0 Front End Development (12/06/2023)
 
 For the front end of this application my initial plan was to utalize the React Library. The issue I have however with this is that
 I am not that verse with the functionalities of Java Script. Hence the current goal is to utalize basic front end development using
 html,css and Java Script. Once I have develop a major level of confidence in using Java Script, I will then branch over into
 integrating React Library into my front end development.
+
+## 1.1 Designing the Application Interface
