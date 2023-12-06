@@ -40,6 +40,7 @@ integrating React Library into my front end development.
 <img src="./DocPhotos/firstAppDesign.png"
      alt="First App Design"
      height= 500
+     align = center
      style="margin-left: auto, margin-right: auto" />
 
 My first attempt to this application was called Project Pathos. I have changed this project's name to Naor currently. Inclusive of the
