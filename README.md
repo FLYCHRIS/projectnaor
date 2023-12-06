@@ -20,7 +20,7 @@ SO besides my enlightenment of knowledge I have definetly been enlightened more 
 With all that said my codes might not paint the picture of a perfect developer but more of one who is learning and finding
 his way through this densely canopied forest of software engineering.
 
-<!-- ![Child in forest](./DocPhotos/canopy.png) -->
+<!-- ![Child in forest](./DocPhotos/canopy.png){:height: 200vw style="margin-left: auto, margin-right: auto"} -->
 
 <img src="./DocPhotos/canopy.png"
      alt="Child in forest"
@@ -35,9 +35,11 @@ integrating React Library into my front end development.
 
 ## 1.1 Designing the Application Interface
 
-<img src="./DocPhotos/firstAppDesign.png"
+![First App Design](./DocPhotos/firstAppDesign.png){:height: 200vw style="margin-left: auto, margin-right: auto"}
+
+<!-- <img src="./DocPhotos/firstAppDesign.png"
      alt="First App Design"
-     style="margin-left: auto, margin-right: auto" />
+     style="margin-left: auto, margin-right: auto" /> -->
 
 My first attempt to this application was called Project Pathos. I have changed this project's name to Naor currently. Inclusive of the
 name I am planning on changing the general Theme and Apperanc eof the application to give it a more professional and industrial mixed with
