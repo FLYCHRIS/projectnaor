@@ -34,3 +34,11 @@ html,css and Java Script. Once I have develop a major level of confidence in usi
 integrating React Library into my front end development.
 
 ## 1.1 Designing the Application Interface
+
+<img src="./DocPhotos/firstAppDesign.png"
+     alt="First App Design"
+     style="margin-left: auto, margin-right: auto" />
+
+My first attempt to this application was called Project Pathos. I have changed this project's name to Naor currently. Inclusive of the
+name I am planning on changing the general Theme and Apperanc eof the application to give it a more professional and industrial mixed with
+technology theme.
