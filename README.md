@@ -35,7 +35,7 @@ integrating React Library into my front end development.
 
 ## 1.1 Designing the Application Interface
 
-![First App Design](./DocPhotos/firstAppDesign.png){: height=200 style="margin-left: auto, margin-right: auto"}
+![First App Design](./DocPhotos/firstAppDesign.png){: height=200 style="margin-left: auto; margin-right: auto"}
 
 <!-- <img src="./DocPhotos/firstAppDesign.png"
      alt="First App Design"
