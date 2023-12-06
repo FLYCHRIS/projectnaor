@@ -20,7 +20,11 @@ SO besides my enlightenment of knowledge I have definetly been enlightened more 
 With all that said my codes might not paint the picture of a perfect developer but more of one who is learning and finding
 his way through this densely canopied forest of software engineering.
 
-![Child in forest](./DocPhotos/canopy.png)
+<!-- ![Child in forest](./DocPhotos/canopy.png) -->
+
+<img src="./DocPhotos/canopy.png"
+     alt="Child in forest"
+     style="margin-left: auto, margin-right: auto" />
 
 # 1.0 Front End Development (12/06/2023)
 
