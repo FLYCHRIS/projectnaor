@@ -40,6 +40,7 @@ integrating React Library into my front end development.
 <img src="./DocPhotos/firstAppDesign.png"
      alt="First App Design"
      height= 500
+     display = block
      text-align= center
      style="margin-left: auto, margin-right: auto" />
 
