@@ -35,11 +35,12 @@ integrating React Library into my front end development.
 
 ## 1.1 Designing the Application Interface
 
-![First App Design](./DocPhotos/firstAppDesign.png){ height=200 style="margin-left: auto; margin-right: auto"}
+<!-- ![First App Design](./DocPhotos/firstAppDesign.png){ height=200 style="margin-left: auto; margin-right: auto"} -->
 
-<!-- <img src="./DocPhotos/firstAppDesign.png"
+<img src="./DocPhotos/firstAppDesign.png"
      alt="First App Design"
-     style="margin-left: auto, margin-right: auto" /> -->
+     height= 200
+     style="margin-left: auto, margin-right: auto" />
 
 My first attempt to this application was called Project Pathos. I have changed this project's name to Naor currently. Inclusive of the
 name I am planning on changing the general Theme and Apperanc eof the application to give it a more professional and industrial mixed with
